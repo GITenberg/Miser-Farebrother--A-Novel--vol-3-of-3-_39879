@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41959
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Farjeon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39879#Miser-Farebrother--A-Novel--vol-3-of-3-
 gutenberg_issued: '2012-06-01'
 gutenberg_type: Text
 identifiers:
