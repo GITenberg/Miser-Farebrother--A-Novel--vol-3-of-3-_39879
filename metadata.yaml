@@ -1,0 +1,28 @@
+_repo: Miser-Farebrother--A-Novel--vol-3-of-3-_39879
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39879-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Farjeon, B. L. (Benjamin Leopold)
+    alias: Farjeon, Benjamin Leopold
+    birthdate: 1833
+    deathdate: 1903
+    gutenberg_agent_id: '41959'
+    url: http://www.gutenberg.org/2009/agents/41959
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Farjeon
+description: ''
+gutenberg_issued: '2012-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: 'Miser Farebrother: A Novel (vol. 3 of 3)'
+url: http://www.gutenberg.org/ebooks/39879
